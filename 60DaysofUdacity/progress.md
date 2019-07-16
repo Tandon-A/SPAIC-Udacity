@@ -2,6 +2,31 @@
 
 A challenge intorduced as a part of the Secure and Private AI course scholarship challenge on Udacity. We need to provide updates about our daily progress in the area of ML/AI. 
 
+## Day 18 : 15/07/19
+* Read through some kernels and discussion threads on the kaggle blindness detection competition.
+
+
+## Day 17 : 14/07/19
+* I successfully trained and tested my first model, also completing a submission for this.
+
+Sending encouragement  to @Anna Scott @Alejandro Galindo @José Fonceca @jicksy @Gogulaanand R
+
+<img src="https://github.com/Tandon-A/SPAIC-Udacity/blob/master/60DaysofUdacity/assets/day17.png" width="250" alt="day17">
+
+
+## Day 16 : 13/07/19
+* Had a meet up in Bangalore to discuss course topics, jobs in the AI domain, and some ideas about projects.
+Tagging participants: @jicksy @Rupesh Purum @SKrPl @Sreekanth Zipsy @Vaibhav Chhabra
+
+<img src="https://github.com/Tandon-A/SPAIC-Udacity/blob/master/60DaysofUdacity/assets/day16.png" width="250" alt="day16">
+
+## Day 15 : 12/07/19 
+* Debugged the code which I had written yesterday. My simple model started training now.
+
+What have you guys been doing? @Anna Scott @Alejandro Galindo @Mohit @Aarthi Alagammai
+
+<img src="https://github.com/Tandon-A/SPAIC-Udacity/blob/master/60DaysofUdacity/assets/day15.png" width="250" alt="day15">
+
 ## Day 14 : 11/07/19
 * Wrote code for my first model (a simple model using transfer learning) for Kaggle competition. (APTOS 2019 Blindness Detection)
 
