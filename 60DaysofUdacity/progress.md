@@ -2,6 +2,17 @@
 
 A challenge intorduced as a part of the Secure and Private AI course scholarship challenge on Udacity. We need to provide updates about our daily progress in the area of ML/AI. 
 
+## Day 19 : 16/07/19
+* Completed reading the GAN paper.
+* Took the GAN paper quiz as part of #reading_paper_discuss.
+* Read through a kernel showing the speed comparison of OpenCV and PIL.
+
+Encouraging @Aisha Javed, @Alejandro Galindo, @Anna Scott, @Dharmendra Choudhary and @Sanskriti Bajaj to follow up with their posts.
+
+
+<img src="https://github.com/Tandon-A/SPAIC-Udacity/blob/master/60DaysofUdacity/assets/day19.png" width="250" alt="day19">
+
+
 ## Day 18 : 15/07/19
 * Read through some kernels and discussion threads on the kaggle blindness detection competition.
 
