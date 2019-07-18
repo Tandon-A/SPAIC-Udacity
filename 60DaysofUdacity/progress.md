@@ -2,6 +2,18 @@
 
 A challenge intorduced as a part of the Secure and Private AI course scholarship challenge on Udacity. We need to provide updates about our daily progress in the area of ML/AI. 
 
+## Day 20 : 17/07/19 
+* Read an interview of Dr Andrew Fitzgibbon of Microsoft, describing his journey, the things he is working on and some tips for young researchers. This blog also listed the interesting way in which the researchers implemented the Kinect technology. [link](https://www.microsoft.com/en-us/research/blog/all-data-ai-with-dr-andrew-fitzgibbon/)
+* Practised python questions as part of @Aisha Javed 's super initiative. 
+* Attended meet up as part of the #reading_discuss_club to discuss the GAN paper. Tagging the participants: @Dharmendra Chaudhary, @Droid @Ingus Terbets @Sarah Majors @Sayed Maheen Basheer @Nicolas Araque @Sankalp Dayal
+* Watched the recorded webinar of Robert Wagner. 
+
+Sending digital motivation vibes to you guys! @Arka @George Christopoulos @Aarthi Alagammai @shivu @Anna Scott 
+
+<img src="https://github.com/Tandon-A/SPAIC-Udacity/blob/master/60DaysofUdacity/assets/day20.png" width="250" alt="day20">
+
+
+
 ## Day 19 : 16/07/19
 * Completed reading the GAN paper.
 * Took the GAN paper quiz as part of #reading_paper_discuss.
