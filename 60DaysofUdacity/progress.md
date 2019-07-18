@@ -2,6 +2,18 @@
 
 A challenge intorduced as a part of the Secure and Private AI course scholarship challenge on Udacity. We need to provide updates about our daily progress in the area of ML/AI. 
 
+## Day 21 : 18/03/19 
+1. Read the [article](https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/) about Facebook's Poker AI bot. They talk about how poker is a challenging game from the perspective of creating a bot, unlike other games like chess. They also list down how Pluribus is trained on the game. 
+2.  Read an [article](https://openai.com/blog/cooperation-on-safety/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_114) by OpenAI on the need for cooperation between companies to introduce safer and secure AI. This blog shows example use cases where companies would be rushing to launch their 'unsafe' products and how cooperation and increased awareness about AI can help prevent this. 
+3. Attended meet up with #sg_wonder_vision participants to discuss Yolo tutorial and implementation. Tagging all the participants: @Mohammad Diab, @Pooja Vinod, @Arunn, @Joyce Obi, @Ateniola Oluwatobi Victor,  @Shashi Gharti, @Sourav,  @susyjam, @James Korge, @Rupesh Purum, @Abhishek Tandon, @Mohona, @Jess, @Seeratpal K. Jaura, @nabhanpv, @Helena Barmer, @Mahak Bansal
+4. Practised python questions as part of @Aisha Javed 's super initiative. 
+
+Sending my best wishes to you guys @Anna Scott @Alejandro Gailando @AnnaSWE @Labiba 
+
+I would also like to invite @refikcanmalli and @Atharv Redij to participate in this challenge. All the best guys!  
+
+<img src="https://github.com/Tandon-A/SPAIC-Udacity/blob/master/60DaysofUdacity/assets/day21.png" width="250" alt="day21">
+
 ## Day 20 : 17/07/19 
 * Read an interview of Dr Andrew Fitzgibbon of Microsoft, describing his journey, the things he is working on and some tips for young researchers. This blog also listed the interesting way in which the researchers implemented the Kinect technology. [link](https://www.microsoft.com/en-us/research/blog/all-data-ai-with-dr-andrew-fitzgibbon/)
 * Practised python questions as part of @Aisha Javed 's super initiative. 
