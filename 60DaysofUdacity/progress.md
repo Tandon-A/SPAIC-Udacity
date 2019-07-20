@@ -2,6 +2,16 @@
 
 A challenge intorduced as a part of the Secure and Private AI course scholarship challenge on Udacity. We need to provide updates about our daily progress in the area of ML/AI. 
 
+## Day 23 : 20/07/19 
+* Read a [blog](https://inventwithpython.com/blog/2018/02/05/python-tuples-are-immutable-except-when-theyre-mutable/) on python fundamentals explaining whether tuples are immutable or not. Learnt about python treats all data types. 
+* Read a [blog](https://towardsdatascience.com/a-brief-overview-of-outlier-detection-techniques-1e0b2c19e561) on anomaly detection. 
+* Had a meet up with @Alejandro Gailando to discuss our progress and future steps on Kaggle blindness detection competition. 
+
+Sending motivational bytes to @Anna Scott, @George Christupolous, @Henrique Mello @Vaibhav Chabbra @Gogulanand R, @Shashi Grati 
+Also inviting @Rajat Mehta and @Jerry to participate in this challenge. Guys make the most of it!
+
+<img src="https://github.com/Tandon-A/SPAIC-Udacity/blob/master/60DaysofUdacity/assets/day23.png" width="250" alt="day23">
+
 ## Day 22 : 19/07/19
 * Practised python questions as part of @Aisha Javed 's super initiative. 
 
