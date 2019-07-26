@@ -2,6 +2,56 @@
 
 A challenge intorduced as a part of the Secure and Private AI course scholarship challenge on Udacity. We need to provide updates about our daily progress in the area of ML/AI. 
 
+## Day 29 : 26/07/19
+* Resumed reading UN handbook on privacy-preserving computation techniques. Today, I focussed on multi-party computation; the manual lists down the threats to MPC and the technological development in that area. (http://publications.officialstatistics.org/handbooks/privacy-preserving-techniques-handbook/UN%20Handbook%20for%20Privacy-Preserving%20Techniques.pdf)
+* Started training a model after preprocessing data using techniques like circle crop for the Kaggle blindness detection challenge. (https://www.kaggle.com/c/aptos2019-blindness-detection)
+* Participated in @Aisha Javed and @Shashank Jain's super initiative. https://secureprivataischolar.slack.com/archives/CJSCX4WAZ/p1564156259397100?thread_ts=1564084786.371200&cid=CJSCX4WAZ
+* I took the Kahoot quiz developed by @Sanskriti Bajaj. Thank you for the quiz. 
+* I took a datamin quiz on Analytics Vidhya (https://datamin.analyticsvidhya.com/quiz/review). It covers a lot of different areas. 
+
+Motivational Bytes for @Mariia Denysenko, @Akshay Pal, @Archit, @Suraiya Khan, @Shudipto Trafder, @Sky, @Khush, @Anju Mercian, @Anna Scott, @Stark, @Mateusz, @Alejandro Galindo, @Helena Barmer, @Droid
+
+<img src="https://github.com/Tandon-A/SPAIC-Udacity/blob/master/60DaysofUdacity/assets/day29.png" width="250" alt="day29">
+
+## Day 28 : 25/07/19
+* Started my day by reading a blog on PySyft for Android. (https://towardsdatascience.com/pysyft-android-b28da47a767e)
+* I took the interview club quiz 2, got one question wrong. Thanks for the quiz @Aniket Mitra. 
+* I had a virtual meet up as part of the #sg_wonder_vision. Tagging the participants:  @Mahak Bansal,  @Joyce Obi, @Shashi Gharti, @Seeratpal K. Jaura,  @Edgar Villegas,  @erinSnPAI,  @Pooja Vinod, @Sourav, @Shudipto Trafder,  @Alejandro Galindo,  @Arunn,  @Abhishek Tandon, @Rupesh Purum,  @susyjam,  @Vamsi,  @Jess,  @medhagupta098,  @James Korge, @Helena Barmer
+* I took the datamin quiz on Analytics Vidhya, got two questions wrong on the first quiz. https://datamin.analyticsvidhya.com/quiz/instructions
+
+Encouraging @Anna Scott, @Oudariya Sen Sharma, @Aisha Javed, @Labiba, @AnnaSWE, @Sumanyu Rosha, @Archit 
+
+<img src="https://github.com/Tandon-A/SPAIC-Udacity/blob/master/60DaysofUdacity/assets/day28.png" width="250" alt="day28">
+<img src="https://github.com/Tandon-A/SPAIC-Udacity/blob/master/60DaysofUdacity/assets/day28_2.png" width="250" alt="day28">
+
+
+## Day 27 : 24/07/19
+I got back from my travel today.
+* Read an article on AI glass.  The researchers describe how using wave optics cleverly they were able to make a glass which can recognise digits without any need of any computation resource. They claim that it can be taken to an advanced stage, allowing the 'AI glass' to work as a face recogniser for face lock on mobile phones (https://futurism.com/scientists-create-ai-glass)
+* Started preprocessing the competition dataset following open-sourced kernels available in the competition. (Kaggle Blindness Detection Competition -- https://www.kaggle.com/c/aptos2019-blindness-detection)
+* I had missed the quiz conducted on Sunday in the #general channel by @Michael Sheinman. I tried all the questions, got one wrong. Thanks for the quiz @Michael Sheinman
+
+Encouraging @Alejandro Galindo, @Nirupama Singh, @Stark, @Tushita Singh, @ThienAn. Go for it guys!
+
+<img src="https://github.com/Tandon-A/SPAIC-Udacity/blob/master/60DaysofUdacity/assets/day27.png" width="250" alt="day27">
+
+
+## Day 26 : 23/07/19
+* Read a blog on ROC AUC metric (https://towardsdatascience.com/understanding-the-roc-and-auc-curves-a05b68550b69)
+
+## Day 25 : 22/07/19
+I am travelling these days so not able to cover much. 
+* Started reading the LIME paper as part of #reading_paper_discuss. 
+
+<img src="https://github.com/Tandon-A/SPAIC-Udacity/blob/master/60DaysofUdacity/assets/day25.png" width="250" alt="day25">
+
+## Day 24 : 21/07/19 
+* Read a blog by Google Ai explaining the steps they have taken to improve the effectiveness and explainability of their diabetic retinopathy models (https://ai.googleblog.com/2018/12/improving-effectiveness-of-diabetic.html) 
+* Started reading the report by UN Global Working Group on Privacy-Preserving Computation Techniques. (http://publications.officialstatistics.org/handbooks/privacy-preserving-techniques-handbook/UN%20Handbook%20for%20Privacy-Preserving%20Techniques.pdf)
+
+I would like to encourage @Abhishek Lalwani, @Dharmendra Chaudhary, @Anna Scott, @Alejandro Gailando, @Helena Barmer and @Sanskriti Bajaj
+
+
 ## Day 23 : 20/07/19 
 * Read a [blog](https://inventwithpython.com/blog/2018/02/05/python-tuples-are-immutable-except-when-theyre-mutable/) on python fundamentals explaining whether tuples are immutable or not. Learnt about python treats all data types. 
 * Read a [blog](https://towardsdatascience.com/a-brief-overview-of-outlier-detection-techniques-1e0b2c19e561) on anomaly detection. 
