@@ -2,6 +2,53 @@
 
 A challenge intorduced as a part of the Secure and Private AI course scholarship challenge on Udacity. We need to provide updates about our daily progress in the area of ML/AI. 
 
+## Day 34 : 31/07/19 
+
+* Resumed reading UN handbook on privacy-preserving computation techniques. Today, I focussed on differential privacy. The document lists that though epsilon, delta have statistical meaning there is no recipe for choosing values for these parameters. ( http://publications.officialstatistics.org/handbooks/privacy-preserving-techniques-handbook/UN%20Handbook%20for%20Privacy-Preserving%20Techniques.pdf)
+* Worked on style transfer today and made some submissions in #sg_project-t-shirt. Thank you @Samuela Anastasi for inspiring and motivating me to do this. Thank you @Sarah Majors for helping me submit my results. Results posted here: (https://secureprivataischolar.slack.com/archives/CL7F9DG7R/p1564598286287500)
+* Revised python concepts. A super initiative by @Aisha Javed and @Shashank Jain. Thanks. ( https://secureprivataischolar.slack.com/archives/CJSCX4WAZ/p1564585298285700?thread_ts=1564464454.169300&cid=CJSCX4WAZ )
+
+Encouraging: @Abhishek Lalwani, @Alejandro Galindo, @Agata [OR, USA], @Gogulaanand R, @Vigneshwari, @Alan Vergel, @Shahana, @cibaca, @Archit, @Aren Stark, @Kapil Chandorikar, @Frida, @Anna Scott, @Sanskriti Bajaj, @Nirupama Singh
+
+<img src="https://github.com/Tandon-A/SPAIC-Udacity/blob/master/60DaysofUdacity/assets/day34.png" width="250" alt="day34">
+
+## Day 33 : 30/07/19 
+* Worked on my kernels for the Kaggle blindness detection competition. (https://www.kaggle.com/c/aptos2019-blindness-detection)
+
+Encouraging: @Samuela Anastasi, @Anna Scott, @Helena Barmer, @Cindy Barrientos, @Archit, @Oudarjya Sen Sarma, @Urvi Soni, @Md. Mahedi Hasan Riday, @Dharmendra Choudhary, @Akshay Rajmohan, @Mansi Goyal
+
+## Day 32 : 29/07/19
+* Resumed reading UN handbook on privacy-preserving computation techniques. Today, I focussed on homomorphic encryption.  The manual lists some application ideas and explains why this technology is difficult to use. http://publications.officialstatistics.org/handbooks/privacy-preserving-techniques-handbook/UN%20Handbook%20for%20Privacy-Preserving%20Techniques.pdf)
+* Participated in the virtual meet up of #sg_wonder_vision. Tagging all the attendees: @Helena Barmer, @Shashank Jain, @Sreekanth Zipsy, @Abhishek Tandon, @erinSnPAI, @Deasy Indrawati, @Anshu Trivedi, @Seeratpal K. Jaura, @Pooja Vinod, @Joyce Obi, @James Korge, @Arunn, @Jess, @Vamsi, @nabhanpv, @Droid, @Sourav, @Shashi Gharti
+* I got my submission for the Kaggle blindness detection competition finally working up. (https://www.kaggle.com/c/aptos2019-blindness-detection)
+
+Sending out encouragement to @Aisha Javed, @Anna Scott, @Labiba, @Dishin Goyani, @akshu18, @Shanmugapriya, @Aniket Mitra, @Shivam Raisharma, @Arka, @happycoder354, @Siddharth Srivastava, @Anna Scott, @Alejandro Gailando, @Shahana, @Sankalp Dayal
+
+<img src="https://github.com/Tandon-A/SPAIC-Udacity/blob/master/60DaysofUdacity/assets/day32.png" width="250" alt="day32">
+
+## Day 31 : 28/07/19
+* Read three papers today Yolo, Yolo v2, Yolo v3. 
+* I wrote a post explaining the three Yolo models on #sg_wonder_vision. The group is working on object detection models and is presently implementing Yolo. (https://secureprivataischolar.slack.com/archives/CL568SQ4C/p1564327512167000)
+* Participated in Kahoot quiz on Federated Learning. Thanks, @Michael Sheinmann for the fun quiz! 
+* Had a virtual meet up with #reading_paper_discuss channel members to discuss GAN implementation. Tagging all participants: @Antonio, @Dharmendra Choudhary, @sourav kumar, @shahnoza, @Ingus Terbets, @Diego, @Abhishek Tandon 
+
+Motivational bytes for @Anna Scott, @Frida, @Julie Fang, @Helena Barmer, @Suparna S Nair, @Ivy, @Aleksandra Deis, @PRAXS, @Shudipto Trafder, @Akshay Pal, @Vipul Aggarwal, @Nirupama Singh, @Khush, @Sankalp Dayal, @Berenice, @Bearbear, @Aarthi Alagammai, @Vebby, @Vigneshwari, @cibaca, @Urvi Soni, @Sayali_Kutwal, @Tyler Yang, @Anshu Trivedi, @risper bevalyn, @himanshi, @Pranjal Chaubey and @Arka 
+
+<img src="https://github.com/Tandon-A/SPAIC-Udacity/blob/master/60DaysofUdacity/assets/day31.png" width="250" alt="day31">
+<img src="https://github.com/Tandon-A/SPAIC-Udacity/blob/master/60DaysofUdacity/assets/day31_2.jpg" width="250" alt="day31">
+
+## Day 30 : 27/07/19
+* Tried training a model on preprocessed Kaggle blindness detection competition data, but somehow the submission is failing. 
+*  Revised python concepts. A super initiative by @Aisha Javed and @Shashank Jain. Thanks. (https://secureprivataischolar.slack.com/archives/CJSCX4WAZ/p1564230903472400?thread_ts=1564168398.416200&cid=CJSCX4WAZ) 
+* Wrote code to do object detection using Yolo v3 model weights. 
+* Participated in the Kahoot quiz on Federated Learning conducted by @Kapil Chandorikar. Thank you, Kapil for the fun quiz!
+
+A big encouragement for you guys: @Rana Tallal, @José Fonceca, @Swapnil Gaikwad, @vivek, @Raunak Sarada, @Agata [OR, USA], @Edgar Villegas, @Dammy, @Carlo David, @Seeratpal K. Jaura, @Oudarjya Sen Sarma, @Frida, @LauraT, @Yemi, @erinSnPAI @Erin Hu, @Olivia, @erinSnPAI @Samuela Anastasi, @Mansi Goyal, @Prashant Goyal, @Anna Scott, @sourav kumar
+
+<img src="https://github.com/Tandon-A/SPAIC-Udacity/blob/master/60DaysofUdacity/assets/day30.png" width="250" alt="day30">
+<img src="https://github.com/Tandon-A/SPAIC-Udacity/blob/master/60DaysofUdacity/assets/day30_2.png" width="250" alt="day30">
+
+
 ## Day 29 : 26/07/19
 * Resumed reading UN handbook on privacy-preserving computation techniques. Today, I focussed on multi-party computation; the manual lists down the threats to MPC and the technological development in that area. (http://publications.officialstatistics.org/handbooks/privacy-preserving-techniques-handbook/UN%20Handbook%20for%20Privacy-Preserving%20Techniques.pdf)
 * Started training a model after preprocessing data using techniques like circle crop for the Kaggle blindness detection challenge. (https://www.kaggle.com/c/aptos2019-blindness-detection)
