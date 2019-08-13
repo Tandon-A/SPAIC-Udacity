@@ -1,6 +1,124 @@
 # 60 Days of Udacity 
 
-A challenge intorduced as a part of the Secure and Private AI course scholarship challenge on Udacity. We need to provide updates about our daily progress in the area of ML/AI. 
+A challenge intorduced as a part of the Secure and Private AI course scholarship challenge on Udacity. We need to provide updates about our daily progress in the area of ML/AI.
+
+## Day 47 : 13/08/19
+* Read a blog on how privacy-protecting AI techniques are necessary for the medical domain. https://blog.openmined.org/federated-learning-differential-privacy-and-encrypted-computation-for-medical-imaging/
+* Worked on Kaggle blindness detection competition. Some small changes today and a lot of reading of the open discussion threads. (https://www.kaggle.com/c/aptos2019-blindness-detection)
+* Read a blog on Efficient Nets. (https://ai.googleblog.com/2019/05/efficientnet-improving-accuracy-and.html)
+* Read a blog on face detection (https://www.superdatascience.com/blogs/opencv-face-detection)
+* Worked on face detection models. #sg_wonder_vision. 
+
+Motivational bytes for @Anna Scott, @THIYAGARAJAN R, @Alejandro Galindo, @cibaca, @Nishant Bharat, @Aisha Khatun, @Mansi Goyal, @Urvi Soni, @Cindy Barrientos, @Sajjad Manal, @Sabrina, @Helena Barmer, @José Fonceca, @misa, @Frida
+
+<img src="https://github.com/Tandon-A/SPAIC-Udacity/blob/master/60DaysofUdacity/assets/day47.png" width="250" alt="day47">
+
+
+## Day 46 : 12/08/19
+* Worked on Kaggle blindness detection competition. I made many changes today to my existing model. (https://www.kaggle.com/c/aptos2019-blindness-detection)
+* Read a blog about the security vulnerabilities present in the Indian education system websites and a follow-up data analysis if the data scraped from those.
+(http://debarghyadas.com/writes/hacking-into-the-indian-education-system/)
+* I attended a meetup with #sg_wonder_vision team members. Tagging face detection team attendees: @Sourav @Rupesh Purum @Anshu Trivedi @medhagupta098@Abhishek Tandon @Seeratpal K. Jaura
+
+Encouraging: @Abhishek Lalwani, @Dupuy Nicolas, @Aniket Mitra, @Labiba, @PaulBruce, @Ivy, @Pooja Vinod, @Aleksandra Deis, @Shudipto Trafder
+
+
+## Day 45 : 11/08/19
+* I attended a meet-up for the face detection subgroup. #sg_wonder_vision. Tagging all the participants: 
+@Sourav, @Alejandro Galindo, @Rupesh Purum, @Agata [OR, USA], @Abhishek Tandon, @susyjam, @Seeratpal K. Jaura
+* Worked on Kaggle blindness detection competition. Trying to make a better fully connected classifier head for the pre-trained model. (https://www.kaggle.com/c/aptos2019-blindness-detection)
+* Participated in Kahoot quiz on encrypted deep learning conducted by @Michael Sheinman.
+
+Motivational Bytes for @Anna Scott, @Helena Barmer, @Biswajit Banerjee, @Oudarjya Sen Sarma, @Pranjal Chaubey, @Shivam Raisharma, @Shaistha
+
+<img src="https://github.com/Tandon-A/SPAIC-Udacity/blob/master/60DaysofUdacity/assets/day45.png" width="250" alt="day45">
+<img src="https://github.com/Tandon-A/SPAIC-Udacity/blob/master/60DaysofUdacity/assets/day45_2.png" width="250" alt="day45">
+
+
+
+## Day 44 : 10/08/19
+* Worked on Kaggle blindness detection competition. Trying to make a better fully connected classifier head for the pre-trained model. (https://www.kaggle.com/c/aptos2019-blindness-detection)
+* Participated in Kahoot quiz on Lesson 9 Encrypted Deep Learning. Thanks, @Kapil Chandorikar for the quiz. 
+* Participated in a discussion on Neuralink. #sg_study_jahm. Tagging participants: @Pooja Vinod @Ingus Terbets @Shudipto Trafder @Oudarjya Sen Sarma @cibaca @Ivy @Ateniola Oluwatobi Victor @Ayushi Gupta @Stanislav Ladyzhenskiy @Mateusz@Sourav @Gogulaanand R @Sayed Maheen Basheer @Sushil Ghimire @susyjam @Labiba @Frida @Abhishek Tandon @Stark @Ayesha Manzur, @Helena Barmer, @Jess, @Anju Mercian 
+
+Encouraging: @Marce, @Ravikant Singh, @Shahana, @Alaa Emad, @Eileen, @Halwai Aftab Hasan, @Dushyant Pathak, @Aren Stark, @Frida
+
+<img src="https://github.com/Tandon-A/SPAIC-Udacity/blob/master/60DaysofUdacity/assets/day44.png" width="250" alt="day44">
+
+
+## Day 43 : 09/08/19
+* Read an excellent blog on P-value. (https://towardsdatascience.com/p-values-explained-by-data-scientist-f40a746cfc8)
+* Worked on face detection models. 
+
+Encouraging:  @Helena Barmer, @Astha Adhikari, @Dishin Goyani, @Julie Fang
+
+<img src="https://github.com/Tandon-A/SPAIC-Udacity/blob/master/60DaysofUdacity/assets/day43.png" width="250" alt="day43">
+
+## Day 42 : 08/08/19
+* Read a small blog on Japan's AI objectives. (https://interestingengineering.com/japan-sets-aside-100-billion-yen-for-robotics-and-innovation-research-programs?_source=newsletter&_campaign=Rgl9vLrvpPeeM&_uid=openZkYe7A&_h=4ee1db6f4165071be39cef92aff59422ca77637e&utm_source=newsletter&utm_medium=mailing&utm_campaign=Newsletter-07-08-2019) 
+* Had a meet up with @Abhishek Lalwani to discuss some project ideas. 
+* Read a blog on Google's ReCaptcha. The post explains how in this version of captcha, there are no boxes to check, but the user activity is tracked over the web site. (https://www.fastcompany.com/90369697/googles-new-recaptcha-has-a-dark-side)
+* Attended meet up with face detection team members #sg_wonder_vision. Tagging all the participants: @Joyce Obi @Mahak Bansal @nabhanpv @Jess @Arunn @Oudarjya Sen Sarma @Mohammad Diab @Seeratpal K. Jaura @Rupesh Purum @Sushil Ghimire @Sreekanth Zipsy @Abhishek Tandon @Dammy @susyjam @Vigneshwari @Pooja Vinod @Temitope Oladokun, @Helena Barmer 
+* Worked on Kaggle blindness detection competition. Shifting from resnet. (https://www.kaggle.com/c/aptos2019-blindness-detection)
+
+Encouraging: @Arka, @Nirupama Singh, @José Fonceca, @Hitoishi Das
+
+<img src="https://github.com/Tandon-A/SPAIC-Udacity/blob/master/60DaysofUdacity/assets/day42.png" width="250" alt="day42">
+<img src="https://github.com/Tandon-A/SPAIC-Udacity/blob/master/60DaysofUdacity/assets/day42_2.png" width="250" alt="day42">
+
+
+
+## Day 41 : 07/08/19
+* Read a blog on how AI is being used to provide travellers with information regarding wait times on Airports. (https://www.post-gazette.com/business/development/2019/07/31/flight-Pittsburgh-International-Airport-Technology-app-Zensors-security/stories/201907310226) 
+* Read an article on the use of AI in conserving species. The report lists examples such as Fish Face Id and Wildbook. (https://www.nature.com/articles/d41586-019-00746-1)
+* Had a meetup with @Alejandro Galindo to discuss our progress on Kaggle blindness detection competition. 
+* I worked on the Kaggle blindness detection competition. Discarded yesterday's idea. (https://www.kaggle.com/c/aptos2019-blindness-detection)
+
+Encouraging: @Anna Scott, @Frida, @Aarthi Alagammai, @Sky, @Carlo David, @Tracy Adams 
+
+<img src="https://github.com/Tandon-A/SPAIC-Udacity/blob/master/60DaysofUdacity/assets/day41.png" width="250" alt="day41">
+
+## Day 40 : 06/08/19
+* Revised python concepts thanks to the super initiative by @Aisha Javed and @Shashank Jain. (https://secureprivataischolar.slack.com/archives/CJSCX4WAZ/p1565097564231400?thread_ts=1565084861.224300&cid=CJSCX4WAZ)
+* Wrote code for one of the ideas borrowed from past similar competition winners (https://www.kaggle.com/c/aptos2019-blindness-detection)
+* Read a blog on PATE analysis. (http://www.cleverhans.io/privacy/2018/04/29/privacy-and-machine-learning.html) 
+
+Encouraging: @Seeratpal K. Jaura, @LauraT, @Anna Scott, @Dharmendra Choudhary
+
+## Day 39 : 05/08/19
+* Read a blog about how Google and Apple incorporate differential privacy in their products. (https://www.accessnow.org/understanding-differential-privacy-matters-digital-rights/)
+* Had a meetup with @Abhishek Lalwani to discuss course lessons. (Local and Global DP) 
+* Revised python concepts thanks to the super initiative by @Aisha Javed and @Shashank Jain. ((https://secureprivataischolar.slack.com/archives/CJSCX4WAZ/p1565017782187100?thread_ts=1564822221.452000&cid=CJSCX4WAZ)
+
+Encouraging: @Tyler Yang, @George Christopoulos, @Helena Barmer 
+
+<img src="https://github.com/Tandon-A/SPAIC-Udacity/blob/master/60DaysofUdacity/assets/day39.png" width="250" alt="day39">
+
+
+## Day 38 : 04/08/19
+* Participated in Kahoot quiz conducted by @Michael Sheinmann. Thank you for the tricky quiz.
+* Wrote code for some ideas which I had for the Kaggle blindness detection competition. (https://www.kaggle.com/c/aptos2019-blindness-detection) and cleared away the submission error from yesterday. 
+
+Motivational Bytes for @Alejandro Galindo, @Abhishek Lalwani, @Anju Mercian , @Helena Barmer, @Hitoishi Das, @Anna Scott, @Elizabeth W, @Mateusz @iso., @Carlo David, @Vigneshwari, @Labiba, @Manisha, @annaSWE, @Samuela Anastasi, @Bearbear, @Joyce Obi, @Mohammad Diab, @Sanskriti Bajaj, @PaulBruce, @Agata [OR, USA], @Droid, @Arka 
+
+<img src="https://github.com/Tandon-A/SPAIC-Udacity/blob/master/60DaysofUdacity/assets/day38.png" width="250" alt="day38">
+
+## Day 37 : 03/08/19
+* Participated in Kahoot quiz conducted by @Kapil Chandorikar. 
+
+<img src="https://github.com/Tandon-A/SPAIC-Udacity/blob/master/60DaysofUdacity/assets/day37.png" width="250" alt="day37">
+
+
+## Day 36 : 02/08/19
+* Completed the privacy manual today.  ( http://publications.officialstatistics.org/handbooks/privacy-preserving-techniques-handbook/UN%20Handbook%20for%20Privacy-Preserving%20Techniques.pdf)
+
+Encouraging @Abhishek Lalwani, @Astha Adhikari, @George Christopoulos, @Sankalp Dayal, @Ana, @Dharmendra Choudhary, @Evi, @BMC
+
+## Day 35 : 01/08/19
+* Resumed reading UN handbook on privacy-preserving computation techniques. Today, I focussed on zero-knowledge proofs.  ( http://publications.officialstatistics.org/handbooks/privacy-preserving-techniques-handbook/UN%20Handbook%20for%20Privacy-Preserving%20Techniques.pdf)
+* Was able to make some submissions for the Kaggle blindness detection competition. (https://www.kaggle.com/c/aptos2019-blindness-detection)
+
+Motivational Bytes for @Mahak Bansal, @erinSnPAI, @Erika Yoon, @Dammy, @Jess, @Joyce, @Seeratpal K. Jaura, @José Fonceca, @Ayesha Manzur, @Nicolas Araque, @Oladimeji Mudele, @Karan Kishinani, @LauraT, @Yemi, @ayivima, @Fustincho, @Aniket Mitra, @Aarthi Alagammai, @Arka , @Anna Scott, @Alejandro Galindo 
 
 ## Day 34 : 31/07/19 
 
@@ -271,7 +389,7 @@ Also, @akshu18, what have you been up to?
 <img src="https://github.com/Tandon-A/SPAIC-Udacity/blob/master/60DaysofUdacity/assets/day5.png" width="250" alt="day5">
 
 
-## Day 4 : 01/06/19
+## Day 4 : 01/07/19
 Couldn't cover much today, I had a busy day at my office.
 * Started Lesson 9 Encrypted Deep Learning 
 
